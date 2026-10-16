@@ -22,3 +22,40 @@ Open your terminal or command prompt inside the project folder and run:
 
 ```bash
 javac Main.java inputDetails.java rentalCost.java displayDetails.java
+```
+
+### Execution
+Run the compiled project by targeting the entry point class:
+
+```bash
+java Main
+```
+
+## 📋 Sample Application Run
+
+```text
+Select an option:
+1. Rent a vehicle
+2. Exit
+> 1
+
+Enter Vehicle Type: 
+> car
+Enter Vehicle Brand: 
+> Toyota
+Enter the number of days:
+> 4
+
+RENTAL RECEIPT 
+Vehicle Type:  car
+Vehicle Brand: Toyota
+Rental Period: 4 days
+Price per Day: RM150.0
+Total Cost:    RM600.0
+
+Select an option:
+1. Rent a vehicle
+2. Exit
+> 2
+Exiting the program. Thank you!
+```
