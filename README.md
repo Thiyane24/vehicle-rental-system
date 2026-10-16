@@ -31,7 +31,7 @@ Run the compiled project by targeting the entry point class:
 java Main
 ```
 
-## 📋 Sample Application Run
+## Sample Application Run
 
 ```text
 Select an option:
